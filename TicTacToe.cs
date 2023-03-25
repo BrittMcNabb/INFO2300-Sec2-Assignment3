@@ -16,7 +16,7 @@ namespace BMcNabbAssignment1
     /// Brittany McNabb (7853724).
     /// Sunday October 2nd, 2022. 
     /// </summary>
-    /// This has been edited: March 24th, 2023. 
+    /// This has been edited twice: March 24th, 2023. 
 
     //Image references: 
     //Chaos07. (2018-2022). Pumpkin clipart[PNG]. Creazilla. https://creazilla.com/nodes/3162124-pumpkin-clipart
