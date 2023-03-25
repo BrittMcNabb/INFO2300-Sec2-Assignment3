@@ -1,4 +1,4 @@
-# BMcNabbAssignment1
+# INFO2300 - Assignment3 - Tic Tac Toe Application 
 
 ## Description
 A standard version of Tic-Tac-Toe with a spooky theme, created with windows forms.
