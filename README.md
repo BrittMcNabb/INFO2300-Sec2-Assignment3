@@ -1,5 +1,4 @@
 # BMcNabbAssignment1
-------
 
 ## Description
 A standard version of Tic-Tac-Toe with a spooky theme, created with windows forms.
